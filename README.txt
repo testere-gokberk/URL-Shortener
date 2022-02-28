@@ -1,4 +1,4 @@
-You can use these code to understand basic servers with Golang.
+You can use this to understand basic servers with Golang.
 
 You can add different redirection routes to the .yaml file in the format given in this file.
 
