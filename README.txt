@@ -6,5 +6,5 @@ If the current path does not match with any of the paths in the .yaml file, prog
 
 More info in the comments.
 
-NOTE : I wrote this in a LINUX machine.
+NOTE : I wrote this on a LINUX machine.
 
